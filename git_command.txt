@@ -1,0 +1,14 @@
+git init
+git status
+git add <filename>
+git commit -m "Present tense"
+git log
+git add .     // add all files in directory
+git diff
+git checkout <filename>
+
+
+//  push to github an existing repository from the command line
+
+git remote add origin <github_repository_url>
+git push -u origin master
