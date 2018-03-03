@@ -21,3 +21,6 @@ git branch			// list of branches
 git checkout <branch name>	// switch to <branch name>
 git add .			// to add files to new branch stage
 git commit -m "message"		// to commit to new branch
+
+git merge <branch name>		// merge <branch name> to master
+:q! 				// to exit message editor
