@@ -16,4 +16,6 @@ git push -u origin master
 // remove files from stage
 git rm --cached -r .
 
-
+git branch <branch name>    // create a new branch
+git branch                  // list of branches
+git checkout <branch name>  // switch to <branch name>
